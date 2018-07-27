@@ -10,6 +10,7 @@ Use the method to download directly to the local Python major.py. As for the GUI
 ***
 
 ***
-##更新日志（updata logs）<br/>
+更新日志（updata logs）
+<br/>
 2018/7/27 添加加密，解密凯撒密码的功能<br/>
 2018/7/27 Add encryption, decrypt the function of the Kaiser password
