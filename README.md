@@ -1,5 +1,5 @@
 # qinghua-CN-passwordtools
-##简单的介绍
+##简单的介绍<br/>
 This tool is a small tool written by a beginner of cryptography. I will constantly add new encryption and decryption functions to him according to his learning progress, which will gradually improve in the future.<br/>
 Use the method to download directly to the local Python major.py. As for the GUI interface, I will add it when the tool is gradually improving. Please look forward to it.<br/>
 ***
@@ -10,6 +10,6 @@ Use the method to download directly to the local Python major.py. As for the GUI
 ***
 
 ***
-##更新日志（updata logs）
+##更新日志（updata logs）<br/>
 2018/7/27 添加加密，解密凯撒密码的功能<br/>
 2018/7/27 Add encryption, decrypt the function of the Kaiser password
